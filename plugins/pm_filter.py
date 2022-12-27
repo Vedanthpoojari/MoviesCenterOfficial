@@ -433,9 +433,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer()
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('⚡ Movie Updates ⚡', url=f"https://telegram.me/MoviesCenterOfficial")
-            ],[
-            InlineKeyboardButton('🔔 BOT Updates 🤖', url='https://t.me/MoviesCenterOfficial')
+            InlineKeyboardButton('🌟 Official Channel 🌟', url='https://t.me/MoviesCenterOfficial')
             ],[
              InlineKeyboardButton('🙆🏻 Help 🦾', callback_data='help'),
             InlineKeyboardButton('♥️ About ♥️', callback_data='about')
@@ -687,7 +685,7 @@ async def auto_filter(client, msg, spoll=False):
 
     btn.insert(0,
         [
-            InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://telegram.me/LazyDeveloper')
+            InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://telegram.me/MoviesCenterOfficial')
         ]
     )
 
