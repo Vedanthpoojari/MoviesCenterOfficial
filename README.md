@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://telegra.ph/file/68d28011b2bc356b5db01.png" alt="Lazy Princess Logo">
+  <img src="https://te.legra.ph/file/dab0554150f32ff42d66e.jpg" alt="MoviesCenterOfficial Logo">
 </p>
 <h1 align="center">
-  <b> Lazy PrincessV2.0 </b>
+  <b> MoviesCenterOfficial </b>
 </h1>
 
 
