@@ -238,7 +238,7 @@ async def start(client, message):
         chat_id=message.from_user.id,
         file_id=file_id,
         caption=f_caption,
-        reply_markup=InlineKeyboardMarkup( [ [InlineKeyboardButton('sᴜʙsᴄʀɪʙᴇ', url='https://youtube.com/@LazyDeveloperr')] ] ),
+        reply_markup=InlineKeyboardMarkup( [ [InlineKeyboardButton('Mᴏᴠɪᴇs Cᴇɴᴛᴇʀ Oғғɪᴄɪᴀʟ™', url='https://t.me/MoviesCenterOfficial')] ] ),
         protect_content=True if pre == 'filep' else False,
         )
                     
